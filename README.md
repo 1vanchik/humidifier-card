@@ -1,6 +1,8 @@
 # humidifier-card
 > Humidifier card for Home Assistant Lovelace UI
 
+
+
 ## Installing
 Download humidifier-card.js file.<br>
 Put humidifier-card.js file into your config/www folder.<br>
@@ -46,3 +48,5 @@ Typical example of using this card in YAML config would look like this:
     show_toolbar: true
     compact_view: false
   ```
+  
+  Original card: <a href="https://github.com/dmitrybabeshko/homeassistant-purifier-card">dmitrybabeshko/homeassistant-purifier-card</a>
