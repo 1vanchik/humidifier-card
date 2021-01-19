@@ -1,7 +1,7 @@
 # humidifier-card
 > Humidifier card for Home Assistant Lovelace UI
 
-
+![Image alt](https://github.com/1vanchik/humidifier-card/blob/main/preview.png)
 
 ## Installing
 Download humidifier-card.js file.<br>
